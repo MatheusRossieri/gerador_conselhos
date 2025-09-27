@@ -1,5 +1,5 @@
 # gerador_conselhos
-##Gerador de Conselhos Aleatórios
+## Gerador de Conselhos Aleatórios
 Ideia: Botão que gera um conselho aleatório diferente a cada clique.
 
 Tecnologias:
